@@ -22,3 +22,15 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=brooke007&show_icons=true&locale=en" alt="brooke007" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brooke007&" alt="brooke007" /></p>
+
+## GitHub Estatísticas
+
+| [![Noah's github stats](https://github-readme-stats.vercel.app/api?username=brooke007&show_icons=true&theme=merko&hide_border=true)](https://github.com/brooke007)  |[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brooke007&layout=compact&theme=merko&hide_border=true&hide=css,html,ruby)](https://github.com/brooke007)|
+| ------------- | ------------- |
+
+<!-- &show_icons=true&include_all_commits=true&theme=buefy&hide_border=true -->
+<!-- <p align="left">
+  <a href="https://github.com/upupnoah">
+    <img  src="https://skillicons.dev/icons?i=rust,go,ts,py,solidity,cpp,c,ruby,git,github,gitlab,docker,k8s,vscode,linux,mysql,mongodb,postgres,redis,rocket,twitter,discord&perline=" />
+  </a>
+</p> -->
